@@ -1,4 +1,5 @@
 <h1>Hello, I'm {Dilan Carrión} ✌🏻 </h1><br>a passionate engineer studying Telecommunications Engineering at UNAN Managua and Computer Engineering at the National University of Engineering. With a strong academic foundation and a drive for continuous learning, I have been able to develop my skills as an engineer through practical experiences.<br><br>
+<img src="https://github.com/Xhneider/Xhneider/blob/main/Banner.png"></img>
 
 
 ## 🌐 Socials:
